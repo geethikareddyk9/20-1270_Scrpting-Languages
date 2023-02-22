@@ -1,1 +1,1 @@
-# 20-1270_Scrpting-Languages
+# 20-1270_Scripting-Languages
